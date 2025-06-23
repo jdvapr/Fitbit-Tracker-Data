@@ -6,6 +6,8 @@ Identify usage trends in FitBit data to inform marketing for Bellabeat’s Leaf 
 
 # Data Source
 FitBit Fitness Tracker Data
+[FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
+- Place CSVs in a `data/` folder.
 
 # Key Findings
 * Weekday activity peaks at 8,000 steps
